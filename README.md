@@ -1,6 +1,6 @@
 # HotelBooking  - WebApplication
 
-###### Goal: to create a booking webapplication, where hotel owners can register theri hotel and guest can make reservations.
+###### Goal: to create a booking webapplication, where hotel owners can register their hotels and guests can make reservations.
 
 **Team members:** [Péter Horváth](https://github.com/horvpeti90), [Ádám Kócsó](https://github.com/KocsoTech), [Krisztina Földi](https://github.com/KrisztinaFoldi), [István Vágási](https://github.com/zombityu) and myself.
 
