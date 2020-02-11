@@ -5,7 +5,7 @@
 **Team members:** [Péter Horváth](https://github.com/horvpeti90), [Ádám Kócsó](https://github.com/KocsoTech), [Krisztina Földi](https://github.com/KrisztinaFoldi), [István Vágási](https://github.com/zombityu) and myself.
 
 **Project duration:** 7x1 week sprint  
-**Methodology:** srcum (with dality standups, one retrospective)  
+**Methodology:** srcum (with daily standups, one retrospective)  
 **Design Patters:** MVC, DI  
 **Technology:** ``` C#, ASP.NET Core, Azure, MySQL, HTML5, CSS, Bootstrap ```   
   
