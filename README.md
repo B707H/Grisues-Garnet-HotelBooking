@@ -6,7 +6,7 @@
 
 **Project duration:** 7x1 week sprint  
 **Methodology:** srcum (with daily standups, one retrospective)  
-**Design Patters:** MVC, DI  
+**Design Pattern:** MVC, DI  
 **Technology:** ``` C#, ASP.NET Core, Azure, MySQL, HTML5, CSS, Bootstrap ```   
   
 ### My contribution: 
