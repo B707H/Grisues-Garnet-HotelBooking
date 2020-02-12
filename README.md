@@ -18,4 +18,4 @@
 | Send automatically generated email after booking a room | 3rd party app implementation (MailGun)  |
 | GUI | In several places within the application - using HTML5, CSS, bootstrap  |
 
-_This was a real-life project which we created for practise purpose._
+>_This was a real-life project which we created for practise purpose._
