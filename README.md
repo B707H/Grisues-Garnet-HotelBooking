@@ -9,12 +9,13 @@
 **Design Pattern:** MVC, DI  
 **Technology:** ``` C#, ASP.NET Core, Azure, MySQL, HTML5, CSS, Bootstrap ```   
   
-### My contribution: 
-**1.** _login/registration:_ >>> session based authorization  
-**2.** _login/registration page input field validation:_ >>> both server and client side  
-**3.** _guest can make reservation:_ >>> creation of the conroller/service/view/model and logic for this feature  
-**4.** _a certain room should only be booked once:_ >>> create the logic that prevents overlapping reservations on rooms 
-**5.** _send automatically generated email after booking a room:_ >>> 3rd party app implementation (MailGun)  
-**6.** _GUI:_ >>> in several places within the application - using HTML5, CSS, bootstrap.  
+## My contribution: 
+| Task / Feature  | Note |
+| ------------- | ------------- |
+| Login and registration system  | Session based authorization, used Identity  |
+| Guest can make reservation | Creation of the conroller/service/view/model and logic for this feature  |
+| A certain room should only be booked once | create the logic that prevents overlapping reservations on rooms   |
+| Send automatically generated email after booking a room | 3rd party app implementation (MailGun)  |
+| GUI | In several places within the application - using HTML5, CSS, bootstrap  |
 
 _This was a real-life project which we created for practise purpose._
