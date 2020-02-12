@@ -8,7 +8,9 @@
 **Methodology:** srcum (with daily standups, one retrospective)  
 **Design Pattern:** MVC, DI  
 **Technology:** ``` C#, ASP.NET Core, Azure, MySQL, HTML5, CSS, Bootstrap ```   
-  
+      
+        
+          
 ### My contribution: 
 | Task / Feature  | Note |
 | ------------- | ------------- |
