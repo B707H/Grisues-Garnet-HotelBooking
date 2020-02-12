@@ -11,7 +11,7 @@
       
         
           
-### My contribution: 
+## My contribution: 
 | Task / Feature  | Note |
 | ------------- | ------------- |
 | **1.** Login and registration system  | Session based authorization, used Identity  |
