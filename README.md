@@ -9,7 +9,7 @@
 **Design Pattern:** MVC, DI  
 **Technology:** ``` C#, ASP.NET Core, Azure, MySQL, HTML5, CSS, Bootstrap ```   
   
-## My contribution: 
+### My contribution: 
 | Task / Feature  | Note |
 | ------------- | ------------- |
 | Login and registration system  | Session based authorization, used Identity  |
